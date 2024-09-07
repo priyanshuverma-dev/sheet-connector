@@ -1,5 +1,8 @@
+
 # Fluvio Google Sheets Connector
-An official Fluvio connector that sinks data from a Fluvio topic to a Google Sheets spreadsheet.
+An unofficial Fluvio connector that sinks data from a Fluvio topic to a Google Sheets spreadsheet.
+
+> This Connector is under the Quira Quest 17 Project track. - Priyanshu Verma
 
 ## Sink Connector
 This connector reads records from a Fluvio topic and writes them into a Google Sheets spreadsheet, using Google’s OAuth2 service account credentials for authentication.
